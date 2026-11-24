@@ -12,15 +12,15 @@ header{
     background-color: #183C63;
     color: azure;
     text-align: center;
-    max-width: 100%;
+    max-width: 100%; /*deixei o cabecalho na largura do site */
     margin: 0 auto;
-    padding: 14px;
+    padding: 14px; /*diminui o padding*/
 }
 
 main{
     background-color: azure;
     color: #183C63;
-   /* max-width: 800px;/*vEXCLUIR ESSA LINHA  */
+   /* max-width: 800px;        EXCLUIR ESSA LINHA  */
     margin: 0 auto;
     padding: 16px;
     display: flex; /* ADICIONAR */
@@ -78,7 +78,7 @@ footer{
     cursor: pointer;
 }
 
-/* voltar ao topo */
+/* BOTAO FLUTUANTE - voltar ao topo */
 html {
     scroll-behavior: smooth;
 }
