@@ -1,4 +1,4 @@
-const botoes = document.querySelectorAll("article button");
+const botoes = document.querySelectorAll("article button"); // acrescentei o article
 
 botoes.forEach(function (botao) {
     let curtiu = false;

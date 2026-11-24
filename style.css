@@ -18,6 +18,7 @@ main{
     max-width: 800px;/*verificar se isso nao vai dar errado mais p frente */
     margin: 0 auto;
     padding: 16px;
+    display: flex; /* adicionei*/
     flex-wrap: wrap;
 }
 
