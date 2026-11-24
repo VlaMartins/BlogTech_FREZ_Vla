@@ -18,7 +18,7 @@ main{
    /* max-width: 800px;/*vEXCLUIR ESSA LINHA  */
     margin: 0 auto;
     padding: 16px;
-    display: flex; /* adicionei*/
+    display: flex; /* ADICIONAR */
     flex-wrap: wrap;
 }
 
