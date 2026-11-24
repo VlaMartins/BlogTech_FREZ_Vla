@@ -15,7 +15,7 @@ header{
 main{
     background-color: azure;
     color: #183C63;
-    max-width: 800px;/*verificar se isso nao vai dar errado mais p frente */
+   /* max-width: 800px;/*verificar se isso nao vai dar errado mais p frente */
     margin: 0 auto;
     padding: 16px;
     display: flex; /* adicionei*/
